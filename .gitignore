@@ -343,7 +343,6 @@ obj/
 *.tmp
 
 # Lock files
-package-lock.json
 yarn.lock
 composer.lock
 
